@@ -1,0 +1,23 @@
+{
+  "name": "kodillaFE_week09ex02_js_arrays",
+  "version": "1.0.0",
+  "description": "Arrays in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w09e02-js-array.git"
+  },
+  "keywords": [
+    "js",
+    "function"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w09e02-js-array/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w09e02-js-array#readme"
+}
